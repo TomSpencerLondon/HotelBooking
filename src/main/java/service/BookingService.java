@@ -4,8 +4,10 @@ import domain.Booking;
 
 public class BookingService {
 
+  private HotelService hotelService;
+
   public BookingService(HotelService hotelService) {
-    throw new UnsupportedOperationException();
+    this.hotelService = hotelService;
   }
 
   public Booking book(String employeeId, String hotelId, String roomType, String dateCheckIn,

@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c60889-360b-4938-98f4-0bfe0a953e7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e7e5cc1b-74a9-4214-8e42-20b89c8d0f0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_assert_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_util_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__pl_pragmatists_JUnitParams_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/domain/HotelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/BookingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/domain/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/HotelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/HotelRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/HotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/repository/HotelRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/repository/HotelRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/service/HotelServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/HotelServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/BookingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/Hotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/BookingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/BookingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/repository/HotelRepositoryTest$TestableHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/repository/HotelRepositoryTest$TestableHotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/repository/HotelRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/repository/HotelRepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,60 +53,73 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1Zch9UXpgv8zYBj0OCUx9IRtNtU" />
+  <component name="ProjectId" id="1Zcyo8o9C4hdllolCqNxiWXewUF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="repository" />
       <recent name="service" />
+      <recent name="domain" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="domain" />
-      <recent name="repository" />
-      <recent name="service" />
-      <recent name="acceptance" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HotelRepositoryTest">
-    <configuration name="BookingFeature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BookingFeature.book_a_room">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All in untitled1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="acceptance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="acceptance" />
-      <option name="MAIN_CLASS_NAME" value="acceptance.BookingFeature" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,59 +140,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HotelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repository.*" />
+          <option name="PATTERN" value="domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="repository" />
-      <option name="MAIN_CLASS_NAME" value="repository.HotelRepositoryTest" />
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.HotelTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelRepositoryTest.save_hotel_to_in_memory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HotelTest.adds_a_room" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repository.*" />
+          <option name="PATTERN" value="domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="repository" />
-      <option name="MAIN_CLASS_NAME" value="repository.HotelRepositoryTest" />
-      <option name="METHOD_NAME" value="save_hotel_to_in_memory" />
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.HotelTest" />
+      <option name="METHOD_NAME" value="adds_a_room" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HotelServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="service" />
-      <option name="MAIN_CLASS_NAME" value="service.HotelServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HotelRepositoryTest" />
         <item itemvalue="JUnit.BookingFeature.book_a_room" />
-        <item itemvalue="JUnit.HotelServiceTest" />
-        <item itemvalue="JUnit.HotelRepositoryTest.save_hotel_to_in_memory" />
-        <item itemvalue="JUnit.BookingFeature" />
+        <item itemvalue="JUnit.HotelTest.adds_a_room" />
+        <item itemvalue="JUnit.HotelTest" />
+        <item itemvalue="JUnit.All in untitled1" />
       </list>
     </recent_temporary>
   </component>
@@ -161,70 +185,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68c60889-360b-4938-98f4-0bfe0a953e7c" name="Default Changelist" comment="" />
-      <created>1585144137945</created>
+      <changelist id="e7e5cc1b-74a9-4214-8e42-20b89c8d0f0c" name="Default Changelist" comment="" />
+      <created>1585152850731</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585144137945</updated>
-      <workItem from="1585144141331" duration="7904000" />
+      <updated>1585152850731</updated>
+      <workItem from="1585152863864" duration="1815000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="555" y="183" width="847" height="684" key="#Project_Structure" timestamp="1585145253197">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="555" y="183" width="847" height="684" key="#Project_Structure/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585145253197" />
-    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585152324564">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152324564" />
-    <state x="713" y="382" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585145947776">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="713" y="382" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585145947776" />
-    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585151947378">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585151947378" />
-    <state width="1920" height="295" key="GridCell.Tab.0.bottom" timestamp="1585152406783">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.bottom/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
-    <state width="1920" height="295" key="GridCell.Tab.0.center" timestamp="1585152406783">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.center/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
-    <state width="1920" height="295" key="GridCell.Tab.0.left" timestamp="1585152406783">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.left/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
-    <state width="1920" height="295" key="GridCell.Tab.0.right" timestamp="1585152406783">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.right/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
-    <state x="731" y="302" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1585145931327">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="731" y="302" width="446" height="447" key="chooseDestDirectoryDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585145931327" />
-    <state x="734" y="254" width="442" height="542" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585150088703">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="734" y="254" width="442" height="542" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150088703" />
-    <state x="605" y="130" width="710" height="783" key="find.popup" timestamp="1585152000015">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="605" y="130" width="710" height="783" key="find.popup/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152000015" />
-    <state x="705" y="141" width="500" height="769" key="refactoring.ChangeSignatureDialog" timestamp="1585148264929">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="705" y="141" width="500" height="769" key="refactoring.ChangeSignatureDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585148264929" />
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585152100747">
-      <screen x="0" y="0" width="1920" height="988" />
-    </state>
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152100747" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
