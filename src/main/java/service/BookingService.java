@@ -12,6 +12,7 @@ public class BookingService {
 
   public Booking book(String employeeId, String hotelId, String roomType, String dateCheckIn,
       String dateCheckOut) {
+
     throw new UnsupportedOperationException();
   }
 }
