@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c60889-360b-4938-98f4-0bfe0a953e7c" name="Default Changelist" comment="" />
+    <list default="true" id="68c60889-360b-4938-98f4-0bfe0a953e7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/HotelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/HotelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/repository/HotelRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/repository/HotelRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/service/HotelServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/HotelServiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zch9UXpgv8zYBj0OCUx9IRtNtU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -136,10 +149,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.HotelRepositoryTest" />
+        <item itemvalue="JUnit.BookingFeature.book_a_room" />
+        <item itemvalue="JUnit.HotelServiceTest" />
         <item itemvalue="JUnit.HotelRepositoryTest.save_hotel_to_in_memory" />
         <item itemvalue="JUnit.BookingFeature" />
-        <item itemvalue="JUnit.HotelServiceTest" />
-        <item itemvalue="JUnit.BookingFeature.book_a_room" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585144137945</updated>
-      <workItem from="1585144141331" duration="5874000" />
+      <workItem from="1585144141331" duration="7904000" />
     </task>
     <servers />
   </component>
@@ -165,34 +178,34 @@
       <screen x="0" y="0" width="1920" height="988" />
     </state>
     <state x="555" y="183" width="847" height="684" key="#Project_Structure/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585145253197" />
-    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585150322684">
+    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585152324564">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150322684" />
+    <state x="768" y="241" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152324564" />
     <state x="713" y="382" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585145947776">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
     <state x="713" y="382" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585145947776" />
-    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585148149750">
+    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585151947378">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585148149750" />
-    <state width="1920" height="295" key="GridCell.Tab.0.bottom" timestamp="1585150207740">
+    <state x="673" y="9" width="563" height="979" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585151947378" />
+    <state width="1920" height="295" key="GridCell.Tab.0.bottom" timestamp="1585152406783">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.bottom/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150207740" />
-    <state width="1920" height="295" key="GridCell.Tab.0.center" timestamp="1585150207740">
+    <state width="1920" height="295" key="GridCell.Tab.0.bottom/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
+    <state width="1920" height="295" key="GridCell.Tab.0.center" timestamp="1585152406783">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.center/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150207740" />
-    <state width="1920" height="295" key="GridCell.Tab.0.left" timestamp="1585150207740">
+    <state width="1920" height="295" key="GridCell.Tab.0.center/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
+    <state width="1920" height="295" key="GridCell.Tab.0.left" timestamp="1585152406783">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.left/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150207740" />
-    <state width="1920" height="295" key="GridCell.Tab.0.right" timestamp="1585150207740">
+    <state width="1920" height="295" key="GridCell.Tab.0.left/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
+    <state width="1920" height="295" key="GridCell.Tab.0.right" timestamp="1585152406783">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state width="1920" height="295" key="GridCell.Tab.0.right/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150207740" />
+    <state width="1920" height="295" key="GridCell.Tab.0.right/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152406783" />
     <state x="731" y="302" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1585145931327">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
@@ -201,13 +214,17 @@
       <screen x="0" y="0" width="1920" height="988" />
     </state>
     <state x="734" y="254" width="442" height="542" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585150088703" />
+    <state x="605" y="130" width="710" height="783" key="find.popup" timestamp="1585152000015">
+      <screen x="0" y="0" width="1920" height="988" />
+    </state>
+    <state x="605" y="130" width="710" height="783" key="find.popup/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152000015" />
     <state x="705" y="141" width="500" height="769" key="refactoring.ChangeSignatureDialog" timestamp="1585148264929">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
     <state x="705" y="141" width="500" height="769" key="refactoring.ChangeSignatureDialog/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585148264929" />
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585147325962">
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585152100747">
       <screen x="0" y="0" width="1920" height="988" />
     </state>
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585147325962" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.988/1920.0.1280.1024@0.0.1920.988" timestamp="1585152100747" />
   </component>
 </project>

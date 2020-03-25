@@ -3,7 +3,6 @@ package repository;
 import domain.Hotel;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 public class HotelRepository {
 
@@ -21,4 +20,7 @@ public class HotelRepository {
     return hotels.stream().filter(h -> h.id.equals(hotelId)).findAny().get();
   }
 
+  public void setRoom(String hotelId, String roomNumber, String roomType) {
+    findHotelBy(hotelId).addRoom(roomNumber, roomType);
+  }
 }

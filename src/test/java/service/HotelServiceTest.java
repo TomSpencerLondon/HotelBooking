@@ -21,7 +21,6 @@ class HotelServiceTest {
   @Test
   public void add_hotel_to_repository() {
     HotelService service = new HotelService(repo);
-
     String hotelId = UUID.randomUUID().toString();
 
     ArgumentCaptor<Hotel> hotelArg = ArgumentCaptor.forClass(Hotel.class);
@@ -31,6 +30,18 @@ class HotelServiceTest {
 
     assertEquals("Tom's hotel", hotelArg.getValue().name);
     assertEquals(hotelId, hotelArg.getValue().id);
+  }
+
+  @Test
+  public void set_room_to_hotel() {
+    HotelService service = new HotelService(repo);
+    String hotelId = UUID.randomUUID().toString();
+    String roomNumber = UUID.randomUUID().toString();
+    String roomType = "single";
+
+    service.setRoom(hotelId, roomNumber, roomType);
+
+    verify(repo).setRoom(hotelId, roomNumber, roomType);
   }
 
 }

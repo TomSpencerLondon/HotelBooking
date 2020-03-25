@@ -9,4 +9,8 @@ public class Hotel {
     this.name = name;
     this.id = id;
   }
+
+  public void addRoom(String roomNumber, String roomType) {
+    throw new UnsupportedOperationException();
+  }
 }

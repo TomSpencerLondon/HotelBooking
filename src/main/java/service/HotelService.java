@@ -12,11 +12,11 @@ public class HotelService {
   }
 
   public void addHotel(String hotelId, String hotelName) {
-    repository.save(new Hotel(hotelId,hotelName));
+    repository.save(new Hotel(hotelId, hotelName));
   }
 
   public void setRoom(String hotelId, String roomNumber, String roomType) {
-    throw new UnsupportedOperationException();
+    repository.setRoom(hotelId, roomNumber, roomType);
   }
 
 }
